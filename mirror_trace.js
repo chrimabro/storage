@@ -26,7 +26,7 @@ var materials = {
 		'xstarts' : [50],
 		'ystarts' : [265],
 		'xends' :   [344],
-		'yends' :    [260]
+		'yends' :    [20]
 	}
 	
 	//	'xstarts' : [47,	27,		40,		280,		40,		383,	352],
