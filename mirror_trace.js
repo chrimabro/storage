@@ -121,7 +121,7 @@ function do_mirror() {
 	   ctx.fill();
 	   ctx_mirror.globalAlpha=1;
 	   ctx.globalAlpha=1;
-	   document.getElementById("status").innerHTML = "Click the green circle to begin this trial"; 
+	 //  document.getElementById("status").innerHTML = "Click the green circle to begin this trial"; 
     };
 	imageObj.crossOrigin="anonymous";
     imageObj.src=imagePath;
@@ -269,10 +269,10 @@ function do_mirror() {
 				ctx_mirror.fillStyle = 'green';
 				ctx_mirror.fill();
 				lastRefresh = currentRefresh
-				document.getElementById("status").innerHTML = "Click the green circle to begin this trial"; 
+				//document.getElementById("status").innerHTML = "Click the green circle to begin this trial"; 
 			}
 			} else {
-				document.getElementById("status").innerHTML = "Click next to continue.";
+				//document.getElementById("status").innerHTML = "Click next to continue.";
 			}
 		}
 		 
