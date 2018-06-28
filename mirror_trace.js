@@ -19,10 +19,10 @@ var materials = {
 		'mirror' : [true, true,true, true,true, true,true, true,true, true,true, true,true, true,true],
 		'file_names' : ["https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial01.png","https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial02.png", "https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial03.png", "https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial04.png", "https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial05.png", "https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial06.png", "https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial07.png", "https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial08.png", "https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial09.png", "https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial10.png", "https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial11.png", "https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial12.png", "https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial13.png", "https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial14.png", "https://raw.githubusercontent.com/chrimabro/storage/master/trial-images/trial15.png"],   
 		
-		'xstarts' : [27,   371,  274,  40,  27,  41,  32,  40,  40,  42,  30,  36,  28,  43,  38 ],
-		'ystarts' : [280,   266, 281,  251, 285, 127, 32,  54,  255, 48,  17,  175, 22,  250, 49 ],
-		'xends' :   [369,   43,  39,   365, 380, 344, 374, 366, 278, 366, 380, 347, 369, 366, 279],
-		'yends' :   [34,   50,   253,  30,  35,  74,  278, 267, 281, 268, 264,  23, 267, 35,  22]
+		'xstarts' : [27,   371,  39,   45,   29,   38,  32,   40,   38, 40,   27,  38,  25,  43,  41 ],
+		'ystarts' : [280,   266, 251,  48,   16,  172,  265,  251,  48, 250, 284,  126, 270,  51, 251 ],
+		'xends' :   [369,   43,  276,  367,  385, 347,  372,  367, 280, 364, 381,  348, 366, 364, 280],
+		'yends' :   [34,   50,   288,  264,  265,  25,   23,   35,  20, 35,   37,  276, 34,  267, 270]
 		//'xstarts' : [50], 
 		//'ystarts' : [265],
 		//'xends' :   [344],
